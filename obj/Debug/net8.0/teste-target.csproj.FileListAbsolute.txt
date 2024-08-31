@@ -1,0 +1,14 @@
+/home/heisenberg/Documentos/teste-target/bin/Debug/net8.0/teste-target
+/home/heisenberg/Documentos/teste-target/bin/Debug/net8.0/teste-target.deps.json
+/home/heisenberg/Documentos/teste-target/bin/Debug/net8.0/teste-target.runtimeconfig.json
+/home/heisenberg/Documentos/teste-target/bin/Debug/net8.0/teste-target.dll
+/home/heisenberg/Documentos/teste-target/bin/Debug/net8.0/teste-target.pdb
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.GeneratedMSBuildEditorConfig.editorconfig
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.AssemblyInfoInputs.cache
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.AssemblyInfo.cs
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.csproj.CoreCompileInputs.cache
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.dll
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/refint/teste-target.dll
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.pdb
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/teste-target.genruntimeconfig.cache
+/home/heisenberg/Documentos/teste-target/obj/Debug/net8.0/ref/teste-target.dll

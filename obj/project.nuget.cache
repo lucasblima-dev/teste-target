@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGi/U4OEzhn0K4qx4TyJHllgc9pMUcZ94dU4WobK32jX85Ayv2fRV9UZ/fAI6tXj09T2Z5nRJSJ97WZ+nXsAUw==",
+  "success": true,
+  "projectFilePath": "/home/heisenberg/Documentos/teste-target/teste-target.csproj",
+  "expectedPackageFiles": [
+    "/home/heisenberg/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
